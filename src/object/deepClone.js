@@ -8,7 +8,6 @@
  * @example:
  * @params      {object}       origin 要克隆的对象
  * @params      {object}       target 克隆的对象输出到哪
- * Copyright (c) 2022 by czh 1562641145@qq.com, All Rights Reserved. 
  */
 function deepClone(origin, target){
     var target = target|| {},

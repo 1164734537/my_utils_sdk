@@ -6,7 +6,6 @@
  * @FilePath: \utils_sdk\src\dom\addEvent.js
  * @desc: 封装事件处理函数
  * @example: 解决兼容性问题
- * Copyright (c) 2022 by czh 1562641145@qq.com, All Rights Reserved.
  * @ params { obj }     elem    绑定在谁身上(dom)
  * @ params { str }     type    事件类型
  * @ params { fun }     fn  事件处理函数
