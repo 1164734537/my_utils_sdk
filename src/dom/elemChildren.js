@@ -1,9 +1,4 @@
 /*
- * @Author: czh 1562641145@qq.com
- * @Date: 2022-05-16 17:00:52
- * @LastEditors: czh 1562641145@qq.com
- * @LastEditTime: 2022-05-16 17:07:22
- * @FilePath: \utils_sdk\src\dom\elemChildren.js
  * @desc: 筛选出元素节点
  * @example: 解决兼容性问题
  * @params { obj }  elem    需要筛选的元素节点(dom)
