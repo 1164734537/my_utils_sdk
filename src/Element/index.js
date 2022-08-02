@@ -29,6 +29,14 @@ Element.prototype.elemParent = function (n) {
     return undefined
   } else if (n < 0) {
     return undefined
+  }
+  while (n) {
+    if (elem.nodeName === 'HTML') {
+      elem = null
+      return elem
     }
-    
+    elem = elem.parentNode
+    n--
+  }
+  return elem
 }
