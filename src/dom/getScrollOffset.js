@@ -1,4 +1,5 @@
 // 滚动条的距离
+
 // 查看滚动条的距离
 // 常规
 // window.pageXOffset/pageYOffset
